@@ -43,8 +43,8 @@ All of my projects are available here:
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/avinash-ak-b150243a9/]
-* Email: [ambakantiavinash@gmail.com]
+* LinkedIn: https://www.linkedin.com/in/avinash-ak-b150243a9/
+* Email: ambakantiavinash@gmail.com
 * GitHub: https://github.com/avinashabk
 
 ---
