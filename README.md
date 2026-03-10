@@ -27,29 +27,28 @@ All of my projects are available here:
 👉 https://avinashabk.github.io/
 
 ---
-⚡ 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 - I started my career in the field of law, but now I’m building insights instead of arguments. I used to design briefs, now I design dashboards! 🏗➡📊 From concrete calculations to data crunching! Who knew numbers could be fun in both fields? 😄 Welcome to my analytics journey! 🚀
 
-
-📫 How to reach me: ambakantiavinash@gmail.com
----
 ## 🧠 Skills
 
-✦ Financial Analysis
-✦ Risk Assessment
-✦ KYC & Customer Due Diligence
-✦ Compliance Monitoring
-✦ Microsoft Excel (Microsoft MO-210 Certified)
-✦ SQL
-✦ Power BI (Microsoft PL-300 Certified)
-✦ Data Analysis
-✦ ETL
-✦ Power Automate
+* Microsoft Excel (MO-210 Certified)
+* SQL
+* Power BI (PL-300 Certified)
+* Power Automate
+* ETL
+* Financial Analysis
+* Data Analysis
+* Risk Assessment
+* AML
+* KYC & Customer Due Diligence
+* Compliance Monitoring
+
 
 ---
 
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/avinash-ak-b150243a9/
+* Email: ambakantiavinash@gmail.com
 
 
 ---
