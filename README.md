@@ -2,6 +2,8 @@
 
 🎓 Finance & Banking Graduate | AML / KYC | Compliance | Risk & Data Analyst
 
+![Profile Views](https://komarev.com/ghpvc/?username=avinashabk&color=blue)
+
 Welcome to my GitHub profile.
 
 I am a finance graduate interested in **Anti-Money Laundering (AML), Compliance, Risk & Data Analysis**.
