@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashabk&label=Profile%20Views&color=0e75b6&style=flat)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://avinashabk.github.io/)
+
 
 
 Welcome to my GitHub profile.
@@ -29,7 +29,7 @@ I use this space to showcase my projects, learning journey, and certifications r
 
 All of my projects are available here:
 
-👉 https://avinashabk.github.io/
+👉 https://avinashabk.github.io/  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://avinashabk.github.io/)
 
 ---
 
