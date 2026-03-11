@@ -2,7 +2,7 @@
 
 🎓 Finance & Banking Graduate | AML / KYC | Compliance | Risk & Data Analyst
 
-![Profile Views](https://komarev.com/ghpvc/?username=avinashabk&label=Profile%20Views&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=avinashabk&label=Profile%20Views&color=blueviolet&style=flat)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://avinashabk.github.io/)
 
 
 
@@ -31,7 +31,7 @@ I use this space to showcase my projects, learning journey, and certifications r
 
 All of my projects are available here:
 
-👉 https://avinashabk.github.io/    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://avinashabk.github.io/)
+👉 https://avinashabk.github.io/    
 
 
 ---
