@@ -11,7 +11,7 @@
 
 Welcome to my GitHub profile.
 
-I am a finance graduate interested in **Anti-Money Laundering (AML), Compliance, Risk & Data Analysis**.
+I am a finance graduate interested in **Anti-Money Laundering (AML), Finance, Risk & Data Analysis**.
 I use this space to showcase my projects, learning journey, and certifications related to financial analysis and risk management.
 
 
@@ -21,7 +21,7 @@ I use this space to showcase my projects, learning journey, and certifications r
 ## 🚀 About Me
 
 * 🎓 Finance & Banking Graduate
-* 📊 Interested in **AML, KYC, Compliance, Risk & Data Analysis**
+* 📊 Interested in **AML, KYC, Finance, Risk & Data Analysis**
 * 📈 Passionate about data, finance, due diligence, and risk management
 * 🌱 Currently learning more about **financial regulations, data analysis, and compliance frameworks**
 
@@ -40,12 +40,14 @@ All of my projects are available here:
 
 * Microsoft Excel (MO-210 Certified)
 * SQL
+* STATA
 * Power BI (PL-300 Certified)
 * Power Automate
 * ETL
 * Financial Analysis
 * Data Analysis
 * Risk Assessment
+* Statistical Analysis
 * AML
 * KYC & Customer Due Diligence
 * Compliance Monitoring
