@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Avinash Abk
 
-🎓 Finance & Banking Graduate | AML / KYC | Compliance | Risk & Data Analyst
+🎓 Finance & Banking Graduate | AML / KYC | Finance | Risk & Data Analyst
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashabk&label=Profile%20Views&color=blueviolet&style=flat)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://avinashabk.github.io/)
 
